@@ -11,7 +11,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>http://open.sinastorage.com/?c=console&amp;a=redirect&amp;bucket=zhuangzhe-test1&amp;object=xbiao.ipa</string>
+					<string>http://www.xbiao.com/apptest/xbiao5_6.ipa</string>
 				</dict>
 			</array>
 			<key>metadata</key>
@@ -19,11 +19,11 @@
 				<key>bundle-identifier</key>
 				<string>com.li.xbiao.inhouse</string>
 				<key>bundle-version</key>
-				<string>4.5</string>
+				<string>5.6</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>title</key>
-				<string>腕表之家</string>
+				<string>腕表之家beta</string>
 			</dict>
 		</dict>
 	</array>
