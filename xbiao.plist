@@ -11,7 +11,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>http://www.xbiao.com/apptest/xbiao5_6_2.ipa</string>
+					<string>http://www.xbiao.com/apptest/xbiao5_7.ipa</string>
 				</dict>
 			</array>
 			<key>metadata</key>
@@ -19,7 +19,7 @@
 				<key>bundle-identifier</key>
 				<string>com.li.xbiao.inhouse</string>
 				<key>bundle-version</key>
-				<string>5.6.2</string>
+				<string>5.7</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>title</key>
